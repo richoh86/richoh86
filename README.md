@@ -2,7 +2,7 @@
 
 * **Won Seok Oh**
 
-   * Michigan State University, Supply Chain Management (2007 - 2013)
+   * Michigan State University, Supply Chain Management (2007 - 2012)
    * SK C&C ERP System Operator (2013 - 2015)
    * Master of Business Administration of Ajou University, Senior (2015 - 2019.6)
    * ZigBang, Members Management Team (2016)
