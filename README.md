@@ -4,7 +4,7 @@
 
    * Michigan State University, Supply Chain Management (2007 - 2012)
    * SK C&C ERP System Operator (2013 - 2015)
-   * Master of Business Administration of Ajou University, Senior (2015 - 2019.6)
+   * Master of Business Administration of Ajou University (2015 - 2019.6)
    * ZigBang, Members Management Team (2016)
    * FastCampus IOS School 6th (2018.01 - 2018.04)  
    * Business Partner with Real-Estate Agency SangSaeng (2018.04 - 2019.3)
