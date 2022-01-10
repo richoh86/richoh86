@@ -9,7 +9,7 @@
 - 모바일 앱 서비스가 규모가 커지면, 함께 협업하는 개발자의 수가 많아지면서,
     
     하나의 프로그램에 다수 개발자의 코드가 몰릴 때 **병목**이 발생할 수 있습니다. 
-    <p align="center"><img width="600" height="400" src="./92734.png"></p>
+    <p align="center"><img width="600" height="400" src="./images/92734.png"></p>
     
 
 - 개발자가 겪는 문제
@@ -40,7 +40,7 @@
 - Composition이 강력한 **아키텍처** 프레임워크 **RIBs**
     - **RIBs** is short for **Router**, **Interactor** and **Builder**, which are core components of this architecture.
         
-        ![스크린샷 2022-01-01 오후 9.43.50.png](./94350.png)
+        ![스크린샷 2022-01-01 오후 9.43.50.png](./images/94350.png)
         
 - RIBs 아키텍처 각 Core Components들의 역할
     - `Router` : 네비게이션 역할 (Interacter와 ViewController를 연결)
@@ -55,7 +55,7 @@
 
 - 모듈화(Modularization)
     - 모노리틱 앱 구조
-        <p align="left"><img width="400" height="300" src="./101947.png"></p>
+        <p align="left"><img width="400" height="300" src="./images/101947.png"></p>
         
         - 단일 타겟 (모듈)
         - 객체 간 무분별한 참조
@@ -63,7 +63,7 @@
         - 빌드 시간의 증가에 따른 생산성 저하
     - 모듈화 구조
         
-        ![스크린샷 2022-01-01 오후 10.21.36.png](./102136.png)
+        ![스크린샷 2022-01-01 오후 10.21.36.png](./images/102136.png)
         
         - 관심사 분리 및 코드 파악이 빠른 장점이 있다
 - 느슨한 결합
@@ -82,7 +82,7 @@
 
 - 테스트를 통해서 소프트웨어가 잘 못 됐다는 걸 알아 낼 수 있다.
     - 아래 Test Pyrmid에 의해서 테스트의 `속도`와 `단위 or 통합의 정도`를 나타낼 수 있다
-    <p align="center"><img width="600" height="400" src="./103631.png"></p>
+    <p align="center"><img width="600" height="400" src="./images/103631.png"></p>
     
     - Unit Testing
         - 작은 단위의 기능 테스트 XCTests
