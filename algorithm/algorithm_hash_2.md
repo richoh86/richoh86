@@ -19,9 +19,9 @@
 
 ### 입출력 예
 		
-genres ["classic", "pop", "classic", "classic", "pop"]	
-plays [500, 600, 150, 800, 2500]	
-return [4, 1, 3, 0]
+- genres ["classic", "pop", "classic", "classic", "pop"]	
+- plays [500, 600, 150, 800, 2500]	
+- return [4, 1, 3, 0]
 
 ### 입출력 예 설명
 #### classic 장르는 1,450회 재생되었으며, classic 노래는 다음과 같습니다.
