@@ -1,6 +1,6 @@
 ### 💬 About Me 
 
-* 🍎**Won Seok Oh**
+**Won Seok Oh**
 
    * Michigan State University, Supply Chain Management (2006 - 2012)
    * SK C&C ERP System Operator (2013 - 2015)
