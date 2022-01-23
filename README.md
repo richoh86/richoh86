@@ -1,6 +1,6 @@
-### About Me 💬
+### 💬 About Me 
 
-* **Won Seok Oh** 🍎
+* 🍎**Won Seok Oh**
 
    * Michigan State University, Supply Chain Management (2006 - 2012)
    * SK C&C ERP System Operator (2013 - 2015)
@@ -11,7 +11,7 @@
    * Lookpin iOS Developer (2019.8 - 2021.3)
    * ABLY iOS Developer (2021.4 - 2022 Now)
    
-### Contact Info 📫 
+### 📫 Contact Info
 
 * E-Mail: richohios@gmail.com
 
