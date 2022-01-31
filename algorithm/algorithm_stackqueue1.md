@@ -43,18 +43,20 @@ import Foundation
 
 func solution(_ priorities:[Int], _ location:Int) -> Int {
     var cPriorities = priorities
-    var targetIndex = location
-
+    var targetIndex: Int = location
+    
     while cPriorities.count > 0 {
         if cPriorities.contains(where: { $0 > cPriorities[0] }) {
             let first = cPriorities.removeFirst()
             cPriorities.append(first)
-            targetIndex = targetIndex - 1 < 0 ? cPriorities.count - 1 : targetIndex - 1
+            targetIndex = targetIndex - 1 < 0
+            ? cPriorities.count - 1
+            : targetIndex - 1
         } else {
-            if(targetIndex == 0) {
+            if targetIndex == 0 {
                 return priorities.count - cPriorities.count + 1
-            } 
-
+            }
+            
             cPriorities.removeFirst()
             targetIndex = targetIndex - 1
         }
