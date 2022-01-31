@@ -44,7 +44,6 @@ import Foundation
 func solution(_ priorities:[Int], _ location:Int) -> Int {
     var cPriorities = priorities
     var targetIndex = location
-    var seq = 0
 
     while cPriorities.count > 0 {
         if cPriorities.contains(where: { $0 > cPriorities[0] }) {
