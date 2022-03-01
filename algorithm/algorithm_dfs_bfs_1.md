@@ -32,5 +32,48 @@ return 하도록 solution 함수를 작성해주세요.
 
 ### 문제풀이
 ~~~swift
+func solution(_ numbers: [Int], _ target: Int) -> Int {
+    var answer = 0
+    findTarget(
+        numbers: numbers,
+        depth: 0,
+        target: target,
+        value: 0,
+        answer: &answer
+    )
+    return answer
+}
 
+func findTarget(
+    numbers: [Int],
+    depth: Int,
+    target: Int,
+    value: Int,
+    answer: inout Int
+) {
+    if depth >= numbers.count {
+        if target == value { answer += 1 }
+        return
+    }
+    
+    findTarget(
+        numbers: numbers,
+        depth: depth + 1,
+        target: target,
+        value: value + numbers[depth],
+        answer: &answer
+    )
+    findTarget(
+        numbers: numbers,
+        depth: depth + 1,
+        target: target,
+        value: value - numbers[depth],
+        answer: &answer
+    )
+}
+
+let numbers = [4, 1, 2, 1]
+let target = 4
+
+solution(numbers, target)
 ~~~
