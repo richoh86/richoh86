@@ -9,7 +9,7 @@
    * FastCampus iOS School 6th (2018.01 - 2018.04)  
    * Business Partner with Real-Estate Agency (2018.04 - 2019.3)
    * Lookpin iOS Developer (2019.8 - 2021.3)
-   * ABLY iOS Developer (2021.4 - 2023 Now)
+   * ABLY iOS Developer (2021.4 - 2024 Now)
    
 ### 📫 Contact Info
 
