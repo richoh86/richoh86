@@ -7,7 +7,7 @@
    * Master of Business Administration of Ajou University (2015 - 2019.6)
    * ZigBang, Members Management Team (2016)
    * FastCampus iOS School 6th (2018.01 - 2018.04)  
-   * Business Partner with Real-Estate Agency SangSaeng (2018.04 - 2019.3)
+   * Business Partner with Real-Estate Agency (2018.04 - 2019.3)
    * Lookpin iOS Developer (2019.8 - 2021.3)
    * ABLY iOS Developer (2021.4 - 2023 Now)
    
